@@ -1,0 +1,14 @@
+.filterInput {
+    position: absolute;
+    border: 1px solid black;
+}
+
+.filterInputOption {
+    color: black;
+    padding: 12px 16px;
+    display: block;
+}
+
+.filterInputOption:hover {
+    background-color: grey;
+}
