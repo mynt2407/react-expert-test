@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mynt2407/react-expert-test/static/css/main.f416f23d.css",
-    "main.js": "/mynt2407/react-expert-test/static/js/main.25cb0d47.js",
-    "static/js/453.916c9f11.chunk.js": "/mynt2407/react-expert-test/static/js/453.916c9f11.chunk.js",
-    "index.html": "/mynt2407/react-expert-test/index.html",
-    "main.f416f23d.css.map": "/mynt2407/react-expert-test/static/css/main.f416f23d.css.map",
-    "main.25cb0d47.js.map": "/mynt2407/react-expert-test/static/js/main.25cb0d47.js.map",
-    "453.916c9f11.chunk.js.map": "/mynt2407/react-expert-test/static/js/453.916c9f11.chunk.js.map"
+    "main.css": "/react-expert-test/static/css/main.f416f23d.css",
+    "main.js": "/react-expert-test/static/js/main.f303de5e.js",
+    "static/js/453.916c9f11.chunk.js": "/react-expert-test/static/js/453.916c9f11.chunk.js",
+    "index.html": "/react-expert-test/index.html",
+    "main.f416f23d.css.map": "/react-expert-test/static/css/main.f416f23d.css.map",
+    "main.f303de5e.js.map": "/react-expert-test/static/js/main.f303de5e.js.map",
+    "453.916c9f11.chunk.js.map": "/react-expert-test/static/js/453.916c9f11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f416f23d.css",
-    "static/js/main.25cb0d47.js"
+    "static/js/main.f303de5e.js"
   ]
 }
